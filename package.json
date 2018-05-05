@@ -1,0 +1,22 @@
+{
+  "name": "tsp-ga",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://LukeEllul@bitbucket.org/schoolprojects1998/tsp-ga.git"
+  },
+  "author": "Luke Ellul <ellul.luke@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/schoolprojects1998/tsp-ga#readme",
+  "dependencies": {
+    "math.js": "^1.1.43",
+    "mathjs": "^4.2.2",
+    "ramda": "^0.25.0",
+    "ramda-fantasy": "^0.8.0"
+  }
+}
